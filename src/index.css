@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root{
+    font-weight: bolder !important;
+    text-transform: none !important;
+}
+
+
+
+.body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.css-h0q0iv-MuiButtonBase-root-MuiTab-root{
+    font-weight:600 !important;
+    text-transform: none !important;
+}
+
+
+.Dropdown-control{
+    border:none !important;
+    border-bottom: 1px solid black !important;
+}
+
+.Dropdown-arrow {
+    border-color: #020a12 transparent transparent !important;
+    border-width:   10px 10px !important;
+    cursor: pointer;
+}
+
+.sc-eTNRI.lnOUep{
+    font-size: medium !important;
+    color:rgb(75, 74, 74) !important;
+}
+
+.erkbiK div:first-child{
+    font-weight: 500!important;
+    font-size: 14px !important;
+}
+
+
